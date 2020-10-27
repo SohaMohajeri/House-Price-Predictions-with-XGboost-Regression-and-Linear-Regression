@@ -1,7 +1,6 @@
-<div align="center">
   
-## House Price Predictions with-XGboost Regression and-Linear Regression
-</div>
+# House Price Predictions with-XGboost Regression and-Linear Regression
+
 
 
 <div align="center">
