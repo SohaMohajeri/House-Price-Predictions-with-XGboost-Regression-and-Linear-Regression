@@ -19,5 +19,3 @@ Here, we will use two different regression methods and try to predict the house 
 First, we will implement XGBoost as an ensemble learning algorithm to predict the the house prices. Afterwards, we will build a model by Linear Regression. Finally, we will compare the results of these two models to find the best model.
 
 </div>
-
-
