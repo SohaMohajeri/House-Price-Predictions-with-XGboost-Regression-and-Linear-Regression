@@ -11,6 +11,7 @@
 
 <div align="justify">
 
+
 In this Notebook, we will work on a dataset that contains house sale prices for King County in Seattle. It includes homes sold between May 2014 and May 2015. It is a great dataset for evaluating regression models.
 
 Here, we will use two different regression methods and try to predict the house prices by using them. 
