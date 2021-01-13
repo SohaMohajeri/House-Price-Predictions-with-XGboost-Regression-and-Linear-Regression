@@ -3,8 +3,6 @@
 ## House Price Predictions with-XGboost Regression and-Linear Regression
 </div>
 
-
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/69224996/96664922-a000b880-1308-11eb-90d3-b396032f7dc0.jpg" >
 </div>
